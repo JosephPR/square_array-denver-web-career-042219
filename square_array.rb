@@ -1,5 +1,6 @@
 
-def square_array(array)newArray=[]
+def square_array(array)
+  newArray=[]
 array.each do |numbers| # The element, contained within the pipes, 
                         # is like a placeholder. Whatever you put in
                         # the pipes will be used in the block to represent 
